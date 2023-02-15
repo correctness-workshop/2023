@@ -1,16 +1,16 @@
 ---
 layout: template1
-title: Correctness 2022
+title: Correctness 2023
 comments: false
 ---
 
 <img src="img/picture.jpg" alt="Drawing" style="width:1200px;" />
 
-<center><h2>Correctness 2022: Sixth International Workshop on Software Correctness for HPC Applications</h2></center>
-<center><h4> November 18, 2022 (half day, 8:30am - 12pm CST) </h4></center>
-<center><h4> Kay Bailey Hutchison Convention Center Dallas </h4></center>
-<center><h4> Dallas, Texas, USA </h4></center>
-<center><h5> Held in conjunction with SC22: <a href="https://sc22.supercomputing.org/">The International Conference for High Performance Computing, Networking, Storage and Analysis</a> </h5></center>
+<center><h2>Correctness 2023: Seventh International Workshop on Software Correctness for HPC Applications</h2></center>
+<center><h4> November XX, 2023 (full day, 8:30am - xxpm CST) </h4></center>
+<center><h4> Colorado Convention Center </h4></center>
+<center><h4> Denver, Colorado, USA </h4></center>
+<center><h5> Held in conjunction with SC23: <a href="https://sc23.supercomputing.org/">The International Conference for High Performance Computing, Networking, Storage and Analysis</a> </h5></center>
 <center>
 In cooperation with <br />
 <a href="http://www.computer.org">
@@ -84,24 +84,23 @@ The proceedings will be archived in IEEE Xplore.
 ### <a class="anchor" name="dates"> Important Dates </a>
 
 <!--
-* Paper submissions due: ~~August 9, 2021~~ **Extended:** August 16, 2021
-* Notification of acceptance: September 20, 2021
-* E-copyright registration completed by authors: TBD
-* Camera-ready papers due: TBD
--->
-
 * Paper submissions due: ~~August 5, 2022~~ **Extended:** August 12, 2022 (submission updates will be allowed until August 14)
 * Notification of acceptance: September 9, 2022
 * E-copyright registration completed by authors: September 23, 2022
 * Camera-ready papers due: September 30, 2022
+-->
+* Paper submissions due: TBD
+* Notification of acceptance: TBD
+* E-copyright registration completed by authors: TBD
+* Camera-ready papers due: TBD
 
 All time zones are AOE.
 
 ---
 ### <a class="anchor" name="date">Workshop Date</a>
 
-- Half-day Workshop
-- November 18, 2022, 8:30am - 12pm CST
+- Full-day Workshop
+- November XX, 2023, 8:30am - XX CST
 
 ---
 ### <a class="anchor" name="org">Organizers</a>
@@ -112,6 +111,7 @@ All time zones are AOE.
 ---
 ### <a class="anchor" name="pc">Program Committee</a>
 
+<!--
 [Alper Altuntas](https://staff.ucar.edu/users/altuntas), National Center for Atmospheric Research, USA <br />
 [David Bailey](https://cs.ucdavis.edu/directory/david-bailey), LBNL & University of California, Davis, USA <br />
 [Allison H. Baker](https://staff.ucar.edu/users/abaker), National Center for Atmospheric Research, USA <br />
@@ -128,22 +128,22 @@ All time zones are AOE.
 [Emmanuelle Saillard](http://emmanuellesaillard.fr/), INRIA Bordeaux, France  <br />
 [Markus Schordan]( https://people.llnl.gov/schordan1), Lawrence Livermore National Laboratory, USA <br />
 [Tristan Vanderbruggen](https://people.llnl.gov/vanderbrugge1), Lawrence Livermore National Laboratory, USA <br />
-<!--
-[Hugo Brunie](https://team.inria.fr/corse/team-members/), INRIA, France <br />
-[Boyana Norris](https://ix.cs.uoregon.edu/~norris/), University of Oregon, USA <br />
-[Tristan Ravitch](https://galois.com/team/tristan-ravitch/), Galois, Inc, USA <br />
 -->
+TBD
 
 ---
 ### <a class="anchor" name="venue">Venue</a>
 
-- Kay Bailey Hutchison Convention Center Dallas, Dallas, Texas, USA
-- Room: D167
+- Colorado Convention Center, Denver, Colorado, USA
+- Room: XXX
 
 ---
 ### <a class="anchor" name="program">Program</a>
 <br />
 
+TBD
+
+<!--
 <table>
 <tr><td width="15">  </td> <td>8:30am - 8:40am:  Opening remarks    </td> </tr>
 </table>
@@ -176,6 +176,7 @@ All time zones are AOE.
 <tr><td width="15">  </td> <td>11:20am - 11:40am:  Paper 6: <b>"Early Experience with Transformer-Based Similarity Analysis for DataRaceBench"</b>, Winson Chen, Tristan Vanderbruggen, Pei-Hung Lin, Chunhua Liao, Murali Emani </td> </tr>  
 <tr><td width="15">  </td> <td>11:40am - 12:00pm:  Paper 7: <b>"Leveraging the Dynamic Program Structure Tree to Detect Data Races in OpenMP Programs"</b>, Lechen Yu, Feiyang Jin, Joachim Protze, Vivek Sarkar </td> </tr>
 </table>
+-->
 
 ---
 ###  <a class="anchor" name="contact">Contact Information</a>
@@ -183,6 +184,7 @@ Please address workshop questions to Ignacio Laguna (ilaguna@llnl.gov) and/or Ci
 
 ---
 ### <a class="anchor" name="previous">Previous Workshops</a>
+- [Correctness 2022](https://correctness-workshop.github.io/2022/)
 - [Correctness 2021](https://correctness-workshop.github.io/2021/)
 - [Correctness 2020](https://correctness-workshop.github.io/2020/)
 - [Correctness 2019](https://correctness-workshop.github.io/2019/)
