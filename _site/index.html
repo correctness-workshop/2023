@@ -1,0 +1,292 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+    <meta name="description" content="Correctness Workshop 2021">
+    <meta name="author" content="Ignacio Laguna, Cindy Rubio-Gonzalez" />
+    <meta name="keywords" content="correctness, testing, verification, debugging, formal methods">
+        
+    <link rel="icon" href="/2021/assets/img/favicon.ico">
+    <title>Correctness 2021</title>
+    
+    <link rel="alternate" type="application/rss+xml" title="Correctness 2021 - " href="/2021/feed.xml" />
+
+    <!-- Bootstrap core CSS -->
+    <link href="/2021/assets/css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+    <link href="/2021/assets/css/ie10-viewport-bug-workaround.css" rel="stylesheet">
+
+    <!-- Custom styles for this template -->
+    <link href="/2021/assets/css/custom.css" rel="stylesheet">
+    
+    <!-- Styles for 'Syntax Highlighting' of code -->
+    <link href="/2021/assets/css/syntax.css" rel="stylesheet">
+
+    <!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
+    <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
+    <script src="/2021/assets//js/ie-emulation-modes-warning.js"></script>
+
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+    
+    <!-- Facebook OpenGraph tags -->
+    <meta property="og:title" content="Correctness 2021" />
+    <meta property="og:type" content="website" />
+
+    
+        <meta property="og:url" content="http://localhost:4000/" />
+    
+
+    
+        <meta property="og:image" content="http://localhost:4000/img/picture.jpg" />
+    
+</head>
+
+
+<body>
+    <!-- Fixed navbar -->
+<nav class="navbar navbar-default navbar-fixed-top">
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false"
+        aria-controls="navbar">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="http://localhost:4000">Correctness 2021</a>
+    </div>
+
+    <div id="navbar" class="navbar-collapse collapse">
+      <ul class="nav navbar-nav navbar-right">
+        
+        <li>
+          <a href="/2021/#topics">Topics</a>
+        </li>
+        
+        <li>
+          <a href="/2021/#program">Program</a>
+        </li>
+        
+        <li>
+          <a href="/2021/#submissions">Submissions</a>
+        </li>
+        
+        <li>
+          <a href="/2021/#dates">Dates</a>
+        </li>
+        
+        <li>
+          <a href="/2021/#org">Organization</a>
+        </li>
+        
+        <li>
+          <a href="/2021/#contact">Contact</a>
+        </li>
+        
+      </ul>
+    </div>
+    <!--/.nav-collapse -->
+  </div>
+</nav>
+
+    <div class="container">
+        <p><img src="img/picture.jpg" alt="Drawing" style="width:1200px;" /></p>
+
+<center><h2>Correctness 2021: Fifth International Workshop on Software Correctness for HPC Applications</h2></center>
+<center><h4> November 19, 2021 (half day, 8:30am - 12pm CST) </h4></center>
+<center><h4> America’s Center Convention Complex </h4></center>
+<center><h4> St. Louis, MO, USA </h4></center>
+<center><h5> Held in conjunction with SC21: <a href="https://sc21.supercomputing.org/">The International Conference for High Performance Computing, Networking, Storage and Analysis</a> </h5></center>
+<center>
+In cooperation with <br />
+<a href="http://www.computer.org">
+<img src="img/IEEE-Computer-Society-Logo.png" alt="IEEE CS" />
+</a>
+<a href="https://tc.computer.org/tchpc/">
+  <img src="img/tchpc_logo_cmyk.png" alt="TCHPC" />
+</a>
+</center>
+
+<hr />
+
+<p>Ensuring correctness in high-performance computing (HPC) applications is one of the fundamental challenges that the HPC community faces today. While significant advances in verification, testing, and debugging have been made to isolate software errors (or defects) in the context of non-HPC software, several factors make achieving correctness in HPC applications and systems much more challenging than in general systems software—growing heterogeneity (architectures with CPUs, GPUs, and special purpose accelerators), massive scale computations (very high degree of concurrency), use of combined parallel programing models (e.g., MPI+X), new scalable numerical algorithms (e.g., to leverage reduced precision in floating-point arithmetic), and aggressive compiler optimizations/transformations are some of the challenges that make correctness harder in HPC. The following report lays out the key challenges and research areas of HPC correctness: <a href="https://www.osti.gov/biblio/1470989">DOE Report of the HPC Correctness Summit</a>.</p>
+
+<p>As the complexity of future architectures, algorithms, and applications in HPC increases, the ability to fully exploit exascale systems will be limited without correctness. With the continuous use of HPC software to advance scientific and technological capabilities, novel techniques and practical tools for software correctness in HPC are invaluable.</p>
+
+<p>The goal of the Correctness Workshop is to bring together researchers and developers to present and discuss novel ideas to address the problem of correctness in HPC. The workshop will feature contributed papers and invited talks in this area.</p>
+
+<hr />
+<h3 id="workshop-topics"><a class="anchor" name="topics">Workshop Topics</a></h3>
+
+<p>Topics of interest include, but are not limited to:</p>
+
+<h4 id="correctness-in-scientific-applications-and-algorithms">Correctness in Scientific Applications and Algorithms</h4>
+<ul>
+  <li>Formal methods and rigorous mathematical techniques for correctness in HPC applications</li>
+  <li>Frameworks to address the challenges of testing complex HPC applications (e.g., multiphysics applications)</li>
+  <li>Approaches for the specification of numerical algorithms with the goal of correctness checking</li>
+  <li>Error identification in the design and implementation of numerical algorithms using finite-precision floating point numbers</li>
+</ul>
+
+<h4 id="tools-for-debugging-testing-and-correctness-checking">Tools for Debugging, Testing, and Correctness Checking</h4>
+<ul>
+  <li>Program synthesis techniques for testing and debugging HPC applications</li>
+  <li>Tools to control the effect of non-determinism when debugging and testing HPC software</li>
+  <li>Scalable debugging solutions for large-scale HPC applications</li>
+  <li>Scalable tools for model checking, verification, certification, or symbolic execution</li>
+  <li>Static and dynamic analysis to test and check correctness in the entire HPC software ecosystem</li>
+  <li>Predictive debugging and testing approaches to forecast the occurrence of errors in specific conditions</li>
+  <li>Machine learning and anomaly detection for bug detection and localization</li>
+</ul>
+
+<h4 id="programing-models-and-runtime-systems-correctness">Programing Models and Runtime Systems Correctness</h4>
+<ul>
+  <li>Correctness in emerging HPC programing models</li>
+  <li>Analysis of software error propagation and error handling in HPC runtime systems and libraries</li>
+  <li>Metrics to measure the degree of correctness of HPC software</li>
+  <li>Specifications to check the correctness of runtime systems</li>
+</ul>
+
+<h4 id="other-areas">Other Areas</h4>
+<ul>
+  <li>Large databases of bug reports and/or reproducible test cases of HPC software</li>
+  <li>Benchmarks to test the effectiveness of HPC correctness tools</li>
+</ul>
+
+<hr />
+<h3 id="-submissions-and-format-"><a class="anchor" name="submissions"> Submissions and Format </a></h3>
+
+<p>Authors are invited to submit manuscripts in English structured as technical or experience papers at a length of at least <strong>6 pages</strong> but not exceeding <strong>8 pages</strong> of content, including everything. Submissions must use the <a href="https://www.ieee.org/conferences/publishing/templates.html">IEEE format</a>.</p>
+
+<p>Submitted papers will be peer-reviewed by the Program Committee and accepted papers will be published by IEEE Xplore via TCHPC.</p>
+
+<p>Submitted papers must represent original unpublished research that is not currently under review for any other venue. Papers not following these guidelines will be rejected without review. Submissions received after the due date, exceeding length limit, or not appropriately structured may also not be considered. At least one author of an accepted paper must register for and attend the workshop. Authors may contact the workshop organizers for more information. Papers should be submitted electronically at: <a href="https://submissions.supercomputing.org/">https://submissions.supercomputing.org/</a>.</p>
+
+<h4 id="sc-reproducibility-initiative">SC Reproducibility Initiative</h4>
+
+<p>We encourage authors to submit an <strong>optional</strong> artifact description (AD) appendix along with their paper, describing the details of their software environments and computational experiments to the extent that an independent person could replicate their results. The AD appendix is not included in the 8-page limit of the paper and should not exceed <strong>2 pages</strong> of content. For more details of the <strong>SC Reproducibility Initiative</strong> please see: <a href="https://sc21.supercomputing.org/submit/reproducibility-initiative/">https://sc19.qltdclient.com/submit/reproducibility-initiative/</a>.</p>
+
+<hr />
+<h3 id="-proceedings-"><a class="anchor" name="proceedings"> Proceedings </a></h3>
+
+<p>The proceedings will be archived in IEEE Xplore via <a href="https://tc.computer.org/tchpc/">TCHPC</a>.</p>
+
+<hr />
+<h3 id="-important-dates-"><a class="anchor" name="dates"> Important Dates </a></h3>
+
+<font color="FF0404">Due to several requests, we have extended the submission deadline to Aug/16/21.</font>
+
+<ul>
+  <li>Paper submissions due: <del>August 9, 2021</del> <strong>Extended:</strong> August 16, 2021</li>
+  <li>Notification of acceptance: September 20, 2021</li>
+  <li>E-copyright registration completed by authors: October 1, 2021</li>
+  <li>Camera-ready papers due: October 4, 2021</li>
+</ul>
+
+<p>All time zones are AOE.</p>
+
+<hr />
+<h3 id="workshop-date"><a class="anchor" name="date">Workshop Date</a></h3>
+
+<ul>
+  <li>Half-day Workshop</li>
+  <li>November 19, 2021, 8:30am - 12pm CST</li>
+</ul>
+
+<hr />
+<h3 id="organizers"><a class="anchor" name="org">Organizers</a></h3>
+
+<p><a href="http://lagunaresearch.org/">Ignacio Laguna</a>, LLNL <br />
+<a href="http://web.cs.ucdavis.edu/~rubio/">Cindy Rubio-González</a>, UC Davis</p>
+
+<hr />
+<h3 id="program-committee"><a class="anchor" name="pc">Program Committee</a></h3>
+
+<p><a href="https://staff.ucar.edu/users/altuntas">Alper Altuntas</a>, National Center for Atmospheric Research, USA <br />
+<a href="https://staff.ucar.edu/users/abaker">Allison H. Baker</a>, National Center for Atmospheric Research, USA <br />
+<a href="https://www.ccee.ncsu.edu/people/jwb/">John Baugh</a>, North Carolina State University, USA <br />
+<a href="https://team.inria.fr/corse/team-members/">Hugo Brunie</a>, INRIA, France <br />
+<a href="http://www.cea.fr/">Patrick Carribault</a>, CEA-DAM, France  <br />
+<a href="https://galois.com/team/charisee-chiw/">Charisee Chiw</a>, Galois, Inc, USA <br />
+<a href="https://www.cs.utah.edu/~ganesh/">Ganesh Gopalakrishnan</a>, University of Utah, USA <br />
+<a href="http://www.sandia.gov/">Geoffrey C. Hulette</a>, Sandia National Laboratories, USA <br /> 
+<a href="https://w3.cs.jmu.edu/lam2mo/">Michael O. Lam</a>, James Madison University, USA <br />
+<a href="http://www.sandia.gov/">Jackson Mayo</a>, Sandia National Laboratories, USA <br />
+<a href="https://ix.cs.uoregon.edu/~norris/">Boyana Norris</a>, University of Oregon, USA <br />
+<a href="https://www.itc.rwth-aachen.de/cms/IT-Center/IT-Center/Team/~oobd/Joachim-Protze/lidx/1/">Joachim Protze</a>, RWTH Aachen University, Germany <br />
+<a href="https://galois.com/team/tristan-ravitch/">Tristan Ravitch</a>, Galois, Inc, USA <br />
+<a href="http://emmanuellesaillard.fr/">Emmanuelle Saillard</a>, INRIA Bordeaux, France  <br />
+<a href="https://people.llnl.gov/schordan1">Markus Schordan</a>, Lawrence Livermore National Laboratory, USA <br />
+<a href="https://people.llnl.gov/vanderbrugge1">Tristan Vanderbruggen</a>, Lawrence Livermore National Laboratory, USA <br /></p>
+
+<hr />
+<h3 id="venue"><a class="anchor" name="venue">Venue</a></h3>
+
+<ul>
+  <li>America’s Center Convention Complex, St. Louis, MO, USA</li>
+  <li>Room: TBD</li>
+</ul>
+
+<hr />
+<h3 id="program"><a class="anchor" name="program">Program</a></h3>
+<p><br /></p>
+
+<p>TBD</p>
+
+<hr />
+<h3 id="contact-information"><a class="anchor" name="contact">Contact Information</a></h3>
+<p>Please address workshop questions to Ignacio Laguna (ilaguna@llnl.gov) and/or Cindy Rubio-González (crubio@ucdavis.edu).</p>
+
+<hr />
+<h3 id="previous-workshops"><a class="anchor" name="previous">Previous Workshops</a></h3>
+<ul>
+  <li><a href="https://correctness-workshop.github.io/2020/">Correctness 2020</a></li>
+  <li><a href="https://correctness-workshop.github.io/2019/">Correctness 2019</a></li>
+  <li><a href="https://correctness-workshop.github.io/2018/">Correctness 2018</a></li>
+  <li><a href="https://correctness-workshop.github.io/2017/">Correctness 2017</a></li>
+</ul>
+
+
+    </div>
+
+    <footer class="footer">
+  <div class="container footerBox">
+    <p class="copyright text-muted">
+      Copyright&nbsp;&copy;&nbsp; 2021 
+      
+    </p>
+
+    <!-- This is my 'Open Source' work. So, please don't remove the below copyright content. :) -->
+    <p class="text-muted">
+      Theme by
+      <a href="https://github.com/bchetty/jekyllBasicBlog">bchetty</a>
+    </p>
+  </div>
+</footer> 
+    <!-- Bootstrap core JavaScript
+    ================================================== -->
+<!-- Placed at the end of the document so the pages load faster -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+<script>
+    window.jQuery || document.write('<script src="/2021/assets//js/jquery.min.js"><\/script>')
+</script>
+<script src="/2021/assets/js/bootstrap.min.js"></script>
+<!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+<script src="/2021/assets//js/ie10-viewport-bug-workaround.js"></script>
+
+</body>
+
+</html>
