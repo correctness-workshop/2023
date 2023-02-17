@@ -78,7 +78,7 @@ We encourage authors to submit an **optional** artifact description (AD) appendi
 ---
 ###  <a class="anchor" name="proceedings"> Proceedings </a>
 
-The proceedings will be archived in IEEE Xplore.
+We expect the proceedings will be archived in IEEE Xplore.
 
 ---
 ### <a class="anchor" name="dates"> Important Dates </a>
