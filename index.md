@@ -7,7 +7,7 @@ comments: false
 <img src="img/picture.jpg" alt="Drawing" style="width:1200px;" />
 
 <center><h2>Correctness 2023: Seventh International Workshop on Software Correctness for HPC Applications</h2></center>
-<center><h4> November XX, 2023 (full day, 8:30am - xxpm CST) </h4></center>
+<center><h4> November 12, 2023 (half day, 1:30pm - 5pm MST) </h4></center>
 <center><h4> Colorado Convention Center </h4></center>
 <center><h4> Denver, Colorado, USA </h4></center>
 <center><h5> Held in conjunction with SC23: <a href="https://sc23.supercomputing.org/">The International Conference for High Performance Computing, Networking, Storage and Analysis</a> </h5></center>
@@ -71,8 +71,12 @@ Submitted papers will be peer-reviewed by the Program Committee and accepted pap
 
 Submitted papers must represent original unpublished research that is not currently under review for any other venue. Papers not following these guidelines will be rejected without review. Submissions received after the due date, exceeding length limit, or not appropriately structured may also not be considered. At least one author of an accepted paper must register for and attend the workshop. Authors may contact the workshop organizers for more information. Papers should be submitted electronically at: [https://submissions.supercomputing.org/](https://submissions.supercomputing.org/).
 
+#### SC Reproducibility Initiative
+
+We encourage authors to submit an **optional** artifact description (AD) appendix along with their paper, describing the details of their software environments and computational experiments to the extent that an independent person could replicate their results. The AD appendix is not included in the 8-page limit of the paper and should not exceed **2 pages** of content. For more details of the **SC Reproducibility Initiative** please see: [https://sc19.qltdclient.com/submit/reproducibility-initiative/](https://sc22.supercomputing.org/submit/reproducibility-initiative/).
+
 ----
-### HPC Bug Fest
+###  <a class="anchor" name="submissions"> HPC Bug Fest </a>
 This year, we have the [HPC Bug Fest](https://sites.google.com/view/hpc-bugs-fest/home), a session that will focus on correctness benchmarks. The goal is to provide a detailed snapshot of the state-of-the-art HPC verification tools by both discussing their methodologies and comparing their evaluation metrics. 
 
 This session only accepts short papers (2 to 4 pages) based on four different contributions: (1) 
@@ -81,11 +85,6 @@ real world cases of error correction. An artefact description is
 mandatory to ensure reproducibility. 
 
 More information on the website: [https://sites.google.com/view/hpc-bugs-fest/home](https://sites.google.com/view/hpc-bugs-fest/home)
-
-
-#### SC Reproducibility Initiative
-
-We encourage authors to submit an **optional** artifact description (AD) appendix along with their paper, describing the details of their software environments and computational experiments to the extent that an independent person could replicate their results. The AD appendix is not included in the 8-page limit of the paper and should not exceed **2 pages** of content. For more details of the **SC Reproducibility Initiative** please see: [https://sc19.qltdclient.com/submit/reproducibility-initiative/](https://sc22.supercomputing.org/submit/reproducibility-initiative/).
 
 ---
 ###  <a class="anchor" name="proceedings"> Proceedings </a>
@@ -101,18 +100,18 @@ We expect the proceedings will be archived in IEEE Xplore.
 * E-copyright registration completed by authors: September 23, 2022
 * Camera-ready papers due: September 30, 2022
 -->
-* Paper submissions due: TBD
-* Notification of acceptance: TBD
-* E-copyright registration completed by authors: TBD
-* Camera-ready papers due: TBD
+* Paper submissions due: August 4, 2023
+* Notification of acceptance: September 8, 2023
+* E-copyright registration completed by authors: September 22, 2023
+* Camera-ready papers due: September 22, 2023
 
 All time zones are AOE.
 
 ---
 ### <a class="anchor" name="date">Workshop Date</a>
 
-- Full-day Workshop
-- November XX, 2023, 8:30am - XX CST
+- Half-day Workshop
+- November 12, 2023, 1:30pm - 5pm MST
 
 ---
 ### <a class="anchor" name="org">Organizers</a>
