@@ -111,25 +111,19 @@ All time zones are AOE.
 ---
 ### <a class="anchor" name="pc">Program Committee</a>
 
-<!--
 [Alper Altuntas](https://staff.ucar.edu/users/altuntas), National Center for Atmospheric Research, USA <br />
 [David Bailey](https://cs.ucdavis.edu/directory/david-bailey), LBNL & University of California, Davis, USA <br />
 [Allison H. Baker](https://staff.ucar.edu/users/abaker), National Center for Atmospheric Research, USA <br />
 [John Baugh](https://www.ccee.ncsu.edu/people/jwb/), North Carolina State University, USA <br />
 [Patrick Carribault](http://www.cea.fr/), CEA-DAM, France  <br />
 [Ganesh Gopalakrishnan](https://www.cs.utah.edu/~ganesh/), University of Utah, USA <br />
-[Geoffrey C. Hulette]( http://www.sandia.gov/), Sandia National Laboratories, USA <br /> 
-[Vinu Joseph](https://www.vinujoseph.org/), NVIDIA Corporation, USA <br />
+[Jan Hueckelheim](https://www.anl.gov/profile/jan-huckelheim), Argonne National Laboratory, USA <br />
+[Joachim Jenke](https://www.itc.rwth-aachen.de/cms/IT-Center/IT-Center/Team/~oobd/Joachim-Protze/lidx/1/), RWTH Aachen University, Germany <br />
 [Michael O. Lam](https://w3.cs.jmu.edu/lam2mo/), James Madison University, USA <br />
 [Jackson Mayo](http://www.sandia.gov/), Sandia National Laboratories, USA <br />
 [Shyamali Mukherjee](https://dl.acm.org/profile/99659214722), Sandia National Laboratories, USA <br />
 [Samuel	Pollard](https://scholar.google.com/citations?user=X0zJ484AAAAJ&hl=en), Sandia National Laboratories, USA <br />
-[Joachim Protze](https://www.itc.rwth-aachen.de/cms/IT-Center/IT-Center/Team/~oobd/Joachim-Protze/lidx/1/), RWTH Aachen University, Germany <br />
 [Emmanuelle Saillard](http://emmanuellesaillard.fr/), INRIA Bordeaux, France  <br />
-[Markus Schordan]( https://people.llnl.gov/schordan1), Lawrence Livermore National Laboratory, USA <br />
-[Tristan Vanderbruggen](https://people.llnl.gov/vanderbrugge1), Lawrence Livermore National Laboratory, USA <br />
--->
-TBD
 
 ---
 ### <a class="anchor" name="venue">Venue</a>
