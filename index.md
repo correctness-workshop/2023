@@ -64,7 +64,7 @@ Topics of interest include, but are not limited to:
 ----
 ### <a class="anchor" name="submissions"> Submissions and Format </a>
 
-Authors are invited to submit manuscripts in English structured as technical or experience papers at a length of at least **6 pages** but not exceeding **8 pages** of content (2-column), including everything except references. <p style="color: skyblue">Submissions must use the </p> [ACM proceedings template](https://www.acm.org/publications/proceedings-template). Latex users, please use the “sigconf” option.
+Authors are invited to submit manuscripts in English structured as technical or experience papers at a length of at least **6 pages** but not exceeding **8 pages** of content (2-column), including everything except references. <span style="color:blue">Submissions must use the **ACM proceedings** template:</span> [https://www.acm.org/publications/proceedings-template](https://www.acm.org/publications/proceedings-template). Latex users, please use the “sigconf” option.
 
 <!--Submitted papers will be peer-reviewed by the Program Committee and accepted papers will be published by IEEE Xplore via TCHPC.-->
 Submitted papers will be peer-reviewed by the Program Committee and accepted papers will be published by IEEE Xplore.
