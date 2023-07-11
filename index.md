@@ -89,7 +89,7 @@ More information on the website: [https://sites.google.com/view/hpc-bugs-fest/ho
 ---
 ###  <a class="anchor" name="proceedings"> Proceedings </a>
 
-We expect the proceedings will be archived in IEEE Xplore.
+The proceedings will be archived by ACM.
 
 ---
 ### <a class="anchor" name="dates"> Important Dates </a>
