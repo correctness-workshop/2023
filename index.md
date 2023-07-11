@@ -64,7 +64,7 @@ Topics of interest include, but are not limited to:
 ----
 ### <a class="anchor" name="submissions"> Submissions and Format </a>
 
-Authors are invited to submit manuscripts in English structured as technical or experience papers at a length of at least **6 pages** but not exceeding **8 pages** of content, including everything except references. Submissions must use the [IEEE format](https://www.ieee.org/conferences/publishing/templates.html).
+Authors are invited to submit manuscripts in English structured as technical or experience papers at a length of at least **6 pages** but not exceeding **8 pages** of content (2-column), including everything except references. Submissions must use the [ACM proceedings template](https://www.acm.org/publications/proceedings-template). Latex users, please use the “sigconf” option.
 
 <!--Submitted papers will be peer-reviewed by the Program Committee and accepted papers will be published by IEEE Xplore via TCHPC.-->
 Submitted papers will be peer-reviewed by the Program Committee and accepted papers will be published by IEEE Xplore.
@@ -73,7 +73,7 @@ Submitted papers must represent original unpublished research that is not curren
 
 #### SC Reproducibility Initiative
 
-We encourage authors to submit an **optional** artifact description (AD) appendix along with their paper, describing the details of their software environments and computational experiments to the extent that an independent person could replicate their results. The AD appendix is not included in the 8-page limit of the paper and should not exceed **2 pages** of content. For more details of the **SC Reproducibility Initiative** please see: [https://sc19.qltdclient.com/submit/reproducibility-initiative/](https://sc22.supercomputing.org/submit/reproducibility-initiative/).
+We encourage authors to submit an **optional** artifact description (AD) appendix along with their paper, describing the details of their software environments and computational experiments to the extent that an independent person could replicate their results. The AD appendix is not included in the 8-page limit of the paper and should not exceed **2 pages** of content. For more details of the **SC Reproducibility Initiative** please see: [https://sc23.supercomputing.org/program/papers/reproducibility-initiative/](https://sc23.supercomputing.org/program/papers/reproducibility-initiative/).
 
 ----
 ###  <a class="anchor" name="submissions"> HPC Bug Fest </a>
