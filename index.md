@@ -100,7 +100,7 @@ The proceedings will be archived by ACM.
 * E-copyright registration completed by authors: September 23, 2022
 * Camera-ready papers due: September 30, 2022
 -->
-* Paper submissions due: August 4, 2023
+* Paper submissions due: ~~August 4, 2023~~ **Extended:** August 10, 2023
 * Notification of acceptance: September 8, 2023
 * E-copyright registration completed by authors: September 22, 2023
 * Camera-ready papers due: September 22, 2023
