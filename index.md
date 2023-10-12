@@ -148,42 +148,53 @@ All time zones are AOE.
 ### <a class="anchor" name="program">Program</a>
 <br />
 
-TBD
-
-<!--
 <table>
 <tr><td width="15">  </td> <td>8:30am - 8:40am:  Opening remarks    </td> </tr>
 </table>
 
-##### Numerical Correctness (Chair: Mike Lam)
+##### Data Races (Chair: XYZ)
 <table>
-<tr><td width="15">  </td> <td>8:40am - 9:00am:  Paper 1:  <b>"Proposed Consistent Exception Handling for the BLAS and LAPACK"</b>, James Demmel, Jack Dongarra, Mark Gates, Greg Henry, Julien Langou, Xiaoye Li, Piotr Luszczek, Weslley Pereira, Jason Riedy, Cindy Rubio-González </td> </tr>
-<tr><td width="15">  </td> <td>9:00am - 9:20am:  Paper 2: <b>"Towards Verified Rounding-Error Analysis for Stationary Iterative Methods"</b>, Ariel Kellison, Mohit Tekriwal, Jean-Baptiste Jeannin, Geoffrey Hulette </td> </tr>
-</table>
+<tr><td width="15">  </td> <td>8:40am - 9:00am:  Paper 1:  <b>"Mapping High-Level Concurrency from OpenMP and MPI to ThreadSanitizer Fibers"</b>, Joachim Jenke, Simon Schwitanski, Isabel Thärigen, Matthias S. Müller </td> </tr>
   
-##### MPI Correctness (Chair: Mike Lam)
-<table>
-<tr><td width="15">  </td> <td>9:20am - 9:40am:  Paper 3: <b>"Static Local Concurrency Errors Detection in MPI-RMA Programs"</b>, Emmanuelle Saillard, Marc Sergent, Célia Tassadit Ait Kaci, Denis Barthou </td> </tr>
-<tr><td width="15">  </td> <td>9:40am - 10:00am:  Paper 4: <b>"On-the-Fly Data Race Detection for MPI RMA Programs with MUST"</b>, Simon Schwitanski, Joachim Jenke, Felix Tomski, Christian Terboven, Matthias S. Müller  </td> </tr>
+<tr><td width="15">  </td> <td>9:00am - 9:20am:  Paper 2: <b>"Rethinking Data Race Detection in MPI-RMA Programs"</b>, Radjasouria Vinayagame, Emmanuelle Saillard, Samuel Thibault, Van Man Nguyen, Marc Sergent
+ </td> </tr>
+
+<tr><td width="15">  </td> <td>9:00am - 9:20am:  Paper 3: <b>"RMARaceBench: A Microbenchmark Suite to Evaluate Race Detection Tools for RMA Programs"</b>, Simon Schwitanski, Joachim Jenke, Sven Klotz, Matthias S. Müller
+ </td> </tr>
+
+<tr><td width="15">  </td> <td>9:00am - 9:20am:  Paper 4: <b>"Data Race Detection Using Large Language Models", Le Chen, Xianzhong Ding, Pei-Hung Lin, Chunhua Liao, Murali Emani, Tristan Vanderbruggen
+ </td> </tr>
 </table>
 
 ##### Break
 <table>
 <tr><td width="15">  </td> <td> 10:00am - 10:30am:  Break </td> </tr>
 </table>
-
-##### Bug Competition (Chair: Ignacio Laguna)
-<table>
-<tr><td width="15">  </td> <td>10:30am - 11:00am:  <b>"Bug Competition Announcement"</b>, Emmanuelle Saillard </td> </tr>
-</table>
   
-##### Multithreaded Correctness (Chair: Emmanuelle Saillard)
+##### Mixed-Precision (Chair: XYZ)
 <table>
-<tr><td width="15">  </td> <td>11:00am - 11:20am:  Paper 5: <b>"MiniKokkos: A Calculus of Portable Parallelism"</b>, Feiyang Jin, John Jacobson II, Samuel D. Pollard, Vivek Sarkar </td> </tr>
-<tr><td width="15">  </td> <td>11:20am - 11:40am:  Paper 6: <b>"Early Experience with Transformer-Based Similarity Analysis for DataRaceBench"</b>, Winson Chen, Tristan Vanderbruggen, Pei-Hung Lin, Chunhua Liao, Murali Emani </td> </tr>  
-<tr><td width="15">  </td> <td>11:40am - 12:00pm:  Paper 7: <b>"Leveraging the Dynamic Program Structure Tree to Detect Data Races in OpenMP Programs"</b>, Lechen Yu, Feiyang Jin, Joachim Protze, Vivek Sarkar </td> </tr>
+<tr><td width="15">  </td> <td>9:20am - 9:40am:  Paper 3: <b>"Mixed-Precision S/DGEMM Using the TF32 and TF64 Frameworks on Low-Precision AI Tensor Cores"</b>, Pedro Valero-Lara, Ian Jorquera, Frank Lui, Jeffrey Vetter </td> </tr>
 </table>
--->
+
+##### HPC Bug Fest (Chair: Emmanuelle Saillard)
+<table>
+<tr><td width="15">  </td> <td>10:30am - 11:00am:  <b>"HPC Bug Fest Introduction"</b>, Emmanuelle Saillard </td> </tr>
+
+<tr><td width="15">  </td> <td>9:20am - 9:40am:  Paper 1: <b>"Towards Correctness Checking of MPI Partitioned Communication in MUST",
+       Simon Schwitanski, Niko Sakic, Joachim Jenke, Felix Tomski, Marc-André Hermanns</td> </tr>
+
+<tr><td width="15">  </td> <td>9:20am - 9:40am:  Paper 2: <b>"Adding Microbenchmarks with SIMD Data Race to DataRaceBench",
+      Joachim Jenke, Kaloyan Ignatov, Simon Schwitanski</td> </tr>
+
+<tr><td width="15">  </td> <td>9:20am - 9:40am:  Paper 3: <b>"Investigating the Real-World Applicability of MPI Correctness Benchmarks",
+      Alexander Hück, Tim Jammer, Joachim Jenke, Christian Bischof</td> </tr>
+
+<tr><td width="15">  </td> <td>9:20am - 9:40am:  Paper 4: <b>"Improve and stabilize classification results of DataRaceBench",
+      Joachim Jenke, Simon Schwitanski</td> </tr>
+
+<tr><td width="15">  </td> <td>9:20am - 9:40am:  Paper 5: <b>"Highlighting PARCOACH Improvements on MBI",
+      Philippe Virouleau, Emmanuelle Saillard, Marc Sergent, Pierre Lemarinier</td> </tr>
+</table>
 
 ---
 ###  <a class="anchor" name="contact">Contact Information</a>
