@@ -142,7 +142,7 @@ All time zones are AOE.
 ### <a class="anchor" name="venue">Venue</a>
 
 - Colorado Convention Center, Denver, Colorado, USA
-- Room: XXX
+- Room: 708
 
 ---
 ### <a class="anchor" name="program">Program</a>
@@ -176,7 +176,7 @@ All time zones are AOE.
 <tr><td width="15">  </td> <td>10:30am - 10:50am:  Paper 3: <b>"Mixed-Precision S/DGEMM Using the TF32 and TF64 Frameworks on Low-Precision AI Tensor Cores"</b>, Pedro Valero-Lara, Ian Jorquera, Frank Lui, Jeffrey Vetter </td> </tr>
 </table>
 
-##### HPC Bug Fest (Chair: Emmanuelle Saillard)
+#### HPC Bug Fest - Short Papers (Chair: Emmanuelle Saillard)
 <table>
 <tr><td width="15">  </td> <td>10:50am - 11:00am:  <b>"HPC Bug Fest Introduction"</b>, Emmanuelle Saillard </td> </tr>
 
