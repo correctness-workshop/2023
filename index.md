@@ -176,9 +176,9 @@ All time zones are AOE.
 <tr><td width="15">  </td> <td>4:00pm - 4:20pm:  Paper 5: <b>"Mixed-Precision S/DGEMM Using the TF32 and TF64 Frameworks on Low-Precision AI Tensor Cores"</b>, Pedro Valero-Lara, Ian Jorquera, Frank Lui, Jeffrey Vetter </td> </tr>
 </table>
 
-#### HPC Bug Fest - Short Papers (Chair: Emmanuelle Saillard)
+#### HPC Bugs Fest - Short Papers (Chair: Emmanuelle Saillard)
 <table>
-<tr><td width="15">  </td> <td>4:20pm - 4:30pm:  <b>"HPC Bug Fest Introduction"</b>, Emmanuelle Saillard </td> </tr>
+<tr><td width="15">  </td> <td>4:20pm - 4:30pm:  <b>"HPC Bugs Fest Introduction"</b>, Emmanuelle Saillard </td> </tr>
 
 <tr><td width="15">  </td> <td>4:30pm - 4:42pm:  Paper 1: <b>"Towards Correctness Checking of MPI Partitioned Communication in MUST"</b>,
        Simon Schwitanski, Niko Sakic, Joachim Jenke, Felix Tomski, Marc-André Hermanns</td> </tr>
