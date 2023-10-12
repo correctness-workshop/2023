@@ -152,7 +152,7 @@ All time zones are AOE.
 <tr><td width="15">  </td> <td>8:30am - 8:40am:  Opening remarks    </td> </tr>
 </table>
 
-##### Data Races (Chair: XYZ)
+#### Data Races (Chair: XYZ)
 <table>
 <tr><td width="15">  </td> <td>8:40am - 9:00am:  Paper 1:  <b>"Mapping High-Level Concurrency from OpenMP and MPI to ThreadSanitizer Fibers"</b>, Joachim Jenke, Simon Schwitanski, Isabel Thärigen, Matthias S. Müller </td> </tr>
   
@@ -166,12 +166,12 @@ All time zones are AOE.
  </td> </tr>
 </table>
 
-##### Break
+#### Break
 <table>
 <tr><td width="15">  </td> <td> 10:00am - 10:30am:  Break </td> </tr>
 </table>
   
-##### Mixed-Precision (Chair: XYZ)
+#### Mixed-Precision (Chair: XYZ)
 <table>
 <tr><td width="15">  </td> <td>10:30am - 10:50am:  Paper 3: <b>"Mixed-Precision S/DGEMM Using the TF32 and TF64 Frameworks on Low-Precision AI Tensor Cores"</b>, Pedro Valero-Lara, Ian Jorquera, Frank Lui, Jeffrey Vetter </td> </tr>
 </table>
