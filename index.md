@@ -149,31 +149,31 @@ All time zones are AOE.
 <br />
 
 <table>
-<tr><td width="15">  </td> <td>8:30am - 8:40am:  Opening remarks    </td> </tr>
+<tr><td width="15">  </td> <td>2:00pm - 2:10pm:  Opening remarks    </td> </tr>
 </table>
 
 #### Data Races (Chair: XYZ)
 <table>
-<tr><td width="15">  </td> <td>8:40am - 9:00am:  Paper 1:  <b>"Mapping High-Level Concurrency from OpenMP and MPI to ThreadSanitizer Fibers"</b>, Joachim Jenke, Simon Schwitanski, Isabel Thärigen, Matthias S. Müller </td> </tr>
+<tr><td width="15">  </td> <td>2:10pm - 2:30pm:  Paper 1:  <b>"Mapping High-Level Concurrency from OpenMP and MPI to ThreadSanitizer Fibers"</b>, Joachim Jenke, Simon Schwitanski, Isabel Thärigen, Matthias S. Müller </td> </tr>
   
-<tr><td width="15">  </td> <td>9:00am - 9:20am:  Paper 2: <b>"Rethinking Data Race Detection in MPI-RMA Programs"</b>, Radjasouria Vinayagame, Emmanuelle Saillard, Samuel Thibault, Van Man Nguyen, Marc Sergent
+<tr><td width="15">  </td> <td>2:30pm - 2:50pm:  Paper 2: <b>"Rethinking Data Race Detection in MPI-RMA Programs"</b>, Radjasouria Vinayagame, Emmanuelle Saillard, Samuel Thibault, Van Man Nguyen, Marc Sergent
  </td> </tr>
 
-<tr><td width="15">  </td> <td>9:20am - 9:40am:  Paper 3: <b>"RMARaceBench: A Microbenchmark Suite to Evaluate Race Detection Tools for RMA Programs"</b>, Simon Schwitanski, Joachim Jenke, Sven Klotz, Matthias S. Müller
+<tr><td width="15">  </td> <td>2:50pm - 3:10pm:  Paper 3: <b>"RMARaceBench: A Microbenchmark Suite to Evaluate Race Detection Tools for RMA Programs"</b>, Simon Schwitanski, Joachim Jenke, Sven Klotz, Matthias S. Müller
  </td> </tr>
 
-<tr><td width="15">  </td> <td>9:40am - 10:00am:  Paper 4: <b>"Data Race Detection Using Large Language Models"</b>, Le Chen, Xianzhong Ding, Pei-Hung Lin, Chunhua Liao, Murali Emani, Tristan Vanderbruggen
+<tr><td width="15">  </td> <td>3:10pm - 4:30pm:  Paper 4: <b>"Data Race Detection Using Large Language Models"</b>, Le Chen, Xianzhong Ding, Pei-Hung Lin, Chunhua Liao, Murali Emani, Tristan Vanderbruggen
  </td> </tr>
 </table>
 
 #### Break
 <table>
-<tr><td width="15">  </td> <td> 10:00am - 10:30am:  Break </td> </tr>
+<tr><td width="15">  </td> <td> 4:30pm - 5:00pm:  Break </td> </tr>
 </table>
   
 #### Mixed-Precision (Chair: XYZ)
 <table>
-<tr><td width="15">  </td> <td>10:30am - 10:50am:  Paper 3: <b>"Mixed-Precision S/DGEMM Using the TF32 and TF64 Frameworks on Low-Precision AI Tensor Cores"</b>, Pedro Valero-Lara, Ian Jorquera, Frank Lui, Jeffrey Vetter </td> </tr>
+<tr><td width="15">  </td> <td>10:30am - 10:50am:  Paper 5: <b>"Mixed-Precision S/DGEMM Using the TF32 and TF64 Frameworks on Low-Precision AI Tensor Cores"</b>, Pedro Valero-Lara, Ian Jorquera, Frank Lui, Jeffrey Vetter </td> </tr>
 </table>
 
 #### HPC Bug Fest - Short Papers (Chair: Emmanuelle Saillard)
