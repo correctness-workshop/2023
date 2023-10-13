@@ -171,7 +171,7 @@ All time zones are AOE.
 <tr><td width="15">  </td> <td> 3:30pm - 4:00pm:  Break </td> </tr>
 </table>
   
-#### Mixed-Precision (Chair: XYZ)
+#### Mixed-Precision (Chair: Mike Lam)
 <table>
 <tr><td width="15">  </td> <td>4:00pm - 4:20pm:  Paper 5: <b>"Mixed-Precision S/DGEMM Using the TF32 and TF64 Frameworks on Low-Precision AI Tensor Cores"</b>, Pedro Valero-Lara, Ian Jorquera, Frank Lui, Jeffrey Vetter </td> </tr>
 </table>
