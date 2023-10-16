@@ -162,7 +162,7 @@ All time zones are AOE.
 <tr><td width="15">  </td> <td>2:50pm - 3:10pm:  Paper 3: <b>"RMARaceBench: A Microbenchmark Suite to Evaluate Race Detection Tools for RMA Programs"</b>, Simon Schwitanski, Joachim Jenke, Sven Klotz, Matthias S. Müller
  </td> </tr>
 
-<tr><td width="15">  </td> <td>3:10pm - 3:30pm:  Paper 4: <b>"Data Race Detection Using Large Language Models"</b>, Le Chen, Xianzhong Ding, Pei-Hung Lin, Chunhua Liao, Murali Emani, Tristan Vanderbruggen
+<tr><td width="15">  </td> <td>3:10pm - 3:30pm:  Paper 4: <b>"Data Race Detection Using Large Language Models"</b>, Le Chen, Xianzhong Ding, Murali Emani, Tristan Vanderbruggen, Pei-Hung Lin, Chunhua Liao
  </td> </tr>
 </table>
 
