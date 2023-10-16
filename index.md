@@ -152,14 +152,14 @@ All time zones are AOE.
 <tr><td width="15">  </td> <td>2:00pm - 2:10pm:  Opening remarks    </td> </tr>
 </table>
 
-#### Data Races (Chair: XYZ)
+#### Data Races (Chair: Jan Hückelheim)
 <table>
 <tr><td width="15">  </td> <td>2:10pm - 2:30pm:  Paper 1:  <b>"Mapping High-Level Concurrency from OpenMP and MPI to ThreadSanitizer Fibers"</b>, Joachim Jenke, Simon Schwitanski, Isabel Thärigen, Matthias S. Müller </td> </tr>
 
 <tr><td width="15">  </td> <td>2:30pm - 2:50pm:  Paper 2: <b>"Data Race Detection Using Large Language Models"</b>, Le Chen, Xianzhong Ding, Murali Emani, Tristan Vanderbruggen, Pei-Hung Lin, Chunhua Liao </td> </tr>
 </table>
 
-#### Remote Memory Access (Chair: XYZ)
+#### Remote Memory Access (Chair: TBD)
 <table>
 <tr><td width="15">  </td> <td>2:50pm - 3:10pm:  Paper 3: <b>"Rethinking Data Race Detection in MPI-RMA Programs"</b>, Radjasouria Vinayagame, Emmanuelle Saillard, Samuel Thibault, Van Man Nguyen, Marc Sergent </td> </tr>
 
