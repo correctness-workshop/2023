@@ -166,7 +166,7 @@ All time zones are AOE.
 <tr><td width="15">  </td> <td> 3:00pm - 3:30pm:  Break </td> </tr>
 </table>
 
-#### Remote Memory Access (Chair: TBD)
+#### Remote Memory Access (Chair: Mike Lam)
 <table>
 <tr><td width="15">  </td> <td>3:30pm - 3:50pm:  Paper 3: <b>"Rethinking Data Race Detection in MPI-RMA Programs"</b>, Radjasouria Vinayagame, Emmanuelle Saillard, Samuel Thibault, Van Man Nguyen, Marc Sergent </td> </tr>
 
