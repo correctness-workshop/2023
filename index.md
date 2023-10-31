@@ -148,38 +148,38 @@ All time zones are AOE.
 ### <a class="anchor" name="program">Program</a>
 <br />
 
+#### Workshop Introduction
 <table>
-<tr><td width="15">  </td> <td>2:00pm - 2:10pm:  Opening remarks    </td> </tr>
+<tr><td width="15">  </td> <td>2:00pm - 2:10pm:  <b>Opening Remarks</b>, Ignacio Laguna, Cindy Rubio-González </td> </tr>
+<tr><td width="15">  </td> <td>2:10pm - 2:20pm:  <b>HPC Bugs Fest Introduction</b>, Emmanuelle Saillard </td> </tr>
 </table>
 
 #### Data Races (Chair: Jan Hückelheim)
 <table>
-<tr><td width="15">  </td> <td>2:10pm - 2:30pm:  Paper 1:  <b>"Mapping High-Level Concurrency from OpenMP and MPI to ThreadSanitizer Fibers"</b>, Joachim Jenke, Simon Schwitanski, Isabel Thärigen, Matthias S. Müller </td> </tr>
+<tr><td width="15">  </td> <td>2:20pm - 2:40pm:  Paper 1:  <b>"Mapping High-Level Concurrency from OpenMP and MPI to ThreadSanitizer Fibers"</b>, Joachim Jenke, Simon Schwitanski, Isabel Thärigen, Matthias S. Müller </td> </tr>
 
-<tr><td width="15">  </td> <td>2:30pm - 2:50pm:  Paper 2: <b>"Data Race Detection Using Large Language Models"</b>, Le Chen, Xianzhong Ding, Murali Emani, Tristan Vanderbruggen, Pei-Hung Lin, Chunhua Liao </td> </tr>
-</table>
-
-#### Remote Memory Access (Chair: TBD)
-<table>
-<tr><td width="15">  </td> <td>2:50pm - 3:10pm:  Paper 3: <b>"Rethinking Data Race Detection in MPI-RMA Programs"</b>, Radjasouria Vinayagame, Emmanuelle Saillard, Samuel Thibault, Van Man Nguyen, Marc Sergent </td> </tr>
-
-<tr><td width="15">  </td> <td>3:10pm - 3:30pm:  Paper 4: <b>"RMARaceBench: A Microbenchmark Suite to Evaluate Race Detection Tools for RMA Programs"</b>, Simon Schwitanski, Joachim Jenke, Sven Klotz, Matthias S. Müller </td> </tr>
+<tr><td width="15">  </td> <td>2:40pm - 3:00pm:  Paper 2: <b>"Data Race Detection Using Large Language Models"</b>, Le Chen, Xianzhong Ding, Murali Emani, Tristan Vanderbruggen, Pei-Hung Lin, Chunhua Liao </td> </tr>
 </table>
 
 #### Break
 <table>
-<tr><td width="15">  </td> <td> 3:30pm - 4:00pm:  Break </td> </tr>
+<tr><td width="15">  </td> <td> 3:00pm - 3:30pm:  Break </td> </tr>
+</table>
+
+#### Remote Memory Access (Chair: TBD)
+<table>
+<tr><td width="15">  </td> <td>3:30pm - 3:50pm:  Paper 3: <b>"Rethinking Data Race Detection in MPI-RMA Programs"</b>, Radjasouria Vinayagame, Emmanuelle Saillard, Samuel Thibault, Van Man Nguyen, Marc Sergent </td> </tr>
+
+<tr><td width="15">  </td> <td>3:50pm - 4:10pm:  Paper 4: <b>"RMARaceBench: A Microbenchmark Suite to Evaluate Race Detection Tools for RMA Programs"</b>, Simon Schwitanski, Joachim Jenke, Sven Klotz, Matthias S. Müller </td> </tr>
 </table>
   
 #### Mixed-Precision (Chair: Mike Lam)
 <table>
-<tr><td width="15">  </td> <td>4:00pm - 4:20pm:  Paper 5: <b>"Mixed-Precision S/DGEMM Using the TF32 and TF64 Frameworks on Low-Precision AI Tensor Cores"</b>, Pedro Valero-Lara, Ian Jorquera, Frank Lui, Jeffrey Vetter </td> </tr>
+<tr><td width="15">  </td> <td>4:10pm - 4:30pm:  Paper 5: <b>"Mixed-Precision S/DGEMM Using the TF32 and TF64 Frameworks on Low-Precision AI Tensor Cores"</b>, Pedro Valero-Lara, Ian Jorquera, Frank Lui, Jeffrey Vetter </td> </tr>
 </table>
 
 #### HPC Bugs Fest - Short Papers (Chair: Emmanuelle Saillard)
 <table>
-<tr><td width="15">  </td> <td>4:20pm - 4:30pm:  <b>"HPC Bugs Fest Introduction"</b>, Emmanuelle Saillard </td> </tr>
-
 <tr><td width="15">  </td> <td>4:30pm - 4:42pm:  Paper 1: <b>"Towards Correctness Checking of MPI Partitioned Communication in MUST"</b>,
        Simon Schwitanski, Niko Sakic, Joachim Jenke, Felix Tomski, Marc-André Hermanns</td> </tr>
 
