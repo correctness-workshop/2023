@@ -7,7 +7,7 @@ comments: false
 <img src="img/picture.jpg" alt="Drawing" style="width:1200px;" />
 
 <center><h2>Correctness 2023: Seventh International Workshop on Software Correctness for HPC Applications</h2></center>
-<center><h4> November 12, 2023 (half day, 1:30pm - 5pm MST) </h4></center>
+<center><h4> November 12, 2023 (half day, 2:00pm - 5pm MST) </h4></center>
 <center><h4> Colorado Convention Center </h4></center>
 <center><h4> Denver, Colorado, USA </h4></center>
 <center><h5> Held in conjunction with SC23: <a href="https://sc23.supercomputing.org/">The International Conference for High Performance Computing, Networking, Storage and Analysis</a> </h5></center>
@@ -111,7 +111,7 @@ All time zones are AOE.
 ### <a class="anchor" name="date">Workshop Date</a>
 
 - Half-day Workshop
-- November 12, 2023, 1:30pm - 5pm MST
+- November 12, 2023, 2:00pm - 5pm MST
 
 ---
 ### <a class="anchor" name="org">Organizers</a>
