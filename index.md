@@ -158,7 +158,7 @@ All time zones are AOE.
 <table>
 <tr><td width="15">  </td> <td>2:20pm - 2:40pm:  Paper 1:  <b>"Mapping High-Level Concurrency from OpenMP and MPI to ThreadSanitizer Fibers"</b>, Joachim Jenke, Simon Schwitanski, Isabel Thärigen, Matthias S. Müller </td> </tr>
 
-<tr><td width="15">  </td> <td>3:30pm - 3:50pm:  Paper 2: <b>"Rethinking Data Race Detection in MPI-RMA Programs"</b>, Radjasouria Vinayagame, Emmanuelle Saillard, Samuel Thibault, Van Man Nguyen, Marc Sergent </td> </tr>
+<tr><td width="15">  </td> <td>2:40pm - 3:00pm:  Paper 2: <b>"Rethinking Data Race Detection in MPI-RMA Programs"</b>, Radjasouria Vinayagame, Emmanuelle Saillard, Samuel Thibault, Van Man Nguyen, Marc Sergent </td> </tr>
 
 </table>
 
@@ -170,9 +170,9 @@ All time zones are AOE.
 #### Remote Memory Access (Chair: Mike Lam)
 <table>
 
-<tr><td width="15">  </td> <td>3:50pm - 4:10pm:  Paper 3: <b>"RMARaceBench: A Microbenchmark Suite to Evaluate Race Detection Tools for RMA Programs"</b>, Simon Schwitanski, Joachim Jenke, Sven Klotz, Matthias S. Müller </td> </tr>
+<tr><td width="15">  </td> <td>3:30pm - 3:50pm:  Paper 3: <b>"RMARaceBench: A Microbenchmark Suite to Evaluate Race Detection Tools for RMA Programs"</b>, Simon Schwitanski, Joachim Jenke, Sven Klotz, Matthias S. Müller </td> </tr>
 
-<tr><td width="15">  </td> <td>2:40pm - 3:00pm:  Paper 4: <b>"Data Race Detection Using Large Language Models"</b>, Le Chen, Xianzhong Ding, Murali Emani, Tristan Vanderbruggen, Pei-Hung Lin, Chunhua Liao </td> </tr>
+<tr><td width="15">  </td> <td>3:50pm - 4:10pm:  Paper 4: <b>"Data Race Detection Using Large Language Models"</b>, Le Chen, Xianzhong Ding, Murali Emani, Tristan Vanderbruggen, Pei-Hung Lin, Chunhua Liao </td> </tr>
 
 </table>
   
